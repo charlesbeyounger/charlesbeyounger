@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @charlesbeyounger
+- 👋 Hi, I’m BURN-E
 - 👀 I’m a Python developer
-- 🌱 I’m currently learning everything and English
+- 🌱 I’m currently learning everything.
 
 <!---
 coderaterunner/coderaterunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
